@@ -1,6 +1,6 @@
-package com.macro.mall.tiny.security.aspect;
+package com.macro.mall.tiny.aspect;
 
-import com.macro.mall.tiny.security.annotation.CacheException;
+import com.macro.mall.tiny.annotation.CacheException;
 import org.aspectj.lang.ProceedingJoinPoint;
 import org.aspectj.lang.Signature;
 import org.aspectj.lang.annotation.Around;
